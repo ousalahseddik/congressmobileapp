@@ -64,3 +64,6 @@ keystore/
 # Build outputs
 releases/
 codemagic.yaml.bak
+
+# Configuration locale des outils de dev (chemins propres a chaque poste)
+.claude/
